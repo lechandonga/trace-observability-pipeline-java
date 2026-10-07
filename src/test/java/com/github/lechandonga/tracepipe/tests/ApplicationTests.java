@@ -1,4 +1,4 @@
-package com.github.lechandonga.traceobservabilitypipelinejava.tests;
+package com.github.lechandonga.tracepipe.tests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
